@@ -1,0 +1,10 @@
+bin\Debug\DirPrintDemo.exe
+bin\Debug\DirPrintDemo.pdb
+bin\Debug\DirPrintDemo.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DirPrintDemo.Form1.resources
+obj\Debug\DirPrintDemo.Resources.resources
+obj\Debug\DirPrintDemo.vbproj.GenerateResource.Cache
+obj\Debug\DirPrintDemo.exe
+obj\Debug\DirPrintDemo.xml
+obj\Debug\DirPrintDemo.pdb
